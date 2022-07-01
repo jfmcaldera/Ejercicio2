@@ -8,17 +8,17 @@ public class Main {
             System.out.println(numeroWhile);
             numeroWhile = numeroWhile +1;*/
 
-         int numeroDoWhile=3;
+         /*int numeroDoWhile=3;
 
          do{
              System.out.println(numeroDoWhile);
              numeroDoWhile = numeroDoWhile +1;
          } while (numeroDoWhile<3);
-        }
+        }*/
 
-        for (int numeroFor =0; numeroFor<=3; numeroFor++){
+        for (int numeroFor =0; numeroFor<=3; numeroFor = numeroFor+1){
             System.out.println(numeroFor);
-            numeroFor = numeroFor + 1;
+
 
         }
 
